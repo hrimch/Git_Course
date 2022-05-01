@@ -1,3 +1,3 @@
 # Git_Course
-YouTube turorial
+YouTube Tutorial
 ## Project Notes
